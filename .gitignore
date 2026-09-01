@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+lakehouse/
+lakehouse_smoke/
+.ipynb_checkpoints/
+*.egg-info/
+.DS_Store
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+spark-warehouse/
+metastore_db/
+derby.log

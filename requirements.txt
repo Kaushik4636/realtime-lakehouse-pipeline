@@ -1,0 +1,7 @@
+pyspark==3.5.3
+delta-spark==3.2.0
+kafka-python==3.0.11
+great_expectations==1.21.0
+faker==40.37.0
+pytest==8.3.3
+boto3==1.35.36
